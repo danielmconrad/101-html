@@ -1,5 +1,6 @@
 {
   "name": "101-html",
   "description": "HTML 101: Choose Your Adventure",
-  "version": "1.0.0"
+  "version": "1.0.0",
+  "main": "index.html"
 }
