@@ -1,1 +1,1 @@
-# HTML 101: Chooose Your Adventure
+# HTML 101: Choose Your Adventure
